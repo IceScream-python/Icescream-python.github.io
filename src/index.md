@@ -6,11 +6,11 @@ description-meta:  Bachelor student in Computer Science
 og-url: https://Icescream-python.github.io
 location: Inria Paris, office BJ15
 email: hugo.segoufin-chollet@ens-lyon.fr
-picture: img/profile.png
+picture: img/image.png
 picture-round: true
 side-by-side: true
 pronouns: He/Him
-og-picture: https://Icescream-python.github.io/img/profile.png
+og-picture: https://Icescream-python.github.io/img/image.png
 
 github: Icescream-python
 
