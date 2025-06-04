@@ -1,5 +1,5 @@
 ---
-title: Template homepage
+title: Hugo SEGOUFIN-CHOLLET
 author: Templato Urnehm
 shortbio: PhD student in 👽 science
 description-meta: PhD student in 👽 science
