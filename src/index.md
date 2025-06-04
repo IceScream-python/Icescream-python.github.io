@@ -20,7 +20,7 @@ footer: >-
   made to be easy to use! 🎓
 ---
 
-I am a Bacholr Computer Science student. I am currently doing an Intership at Inria PAris aiming at defining the CakeML semantic in rocq under the supervision of Yannick Forster.
+I am a Bachelor Computer Science student. I am currently doing an Intership at Inria Paris aiming at defining the CakeML semantic in rocq under the supervision of Yannick Forster.
 
 
 # Education
