@@ -3,7 +3,7 @@ title: Hugo SEGOUFIN--CHOLLET
 author: Hugo SEGOUFIN--CHOLLET
 shortbio: Bachelor student in Computer Science
 description-meta:  Bachelor student in Computer Science
-og-url: https://Icescream-python.github.io
+og-url: https://hsegoufin.github.io
 location: Inria Paris, office BJ15
 email: hugo.segoufin-chollet@ens-lyon.fr
 picture: img/image.png
