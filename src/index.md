@@ -3,7 +3,7 @@ title: Hugo SEGOUFIN-CHOLLET
 author: Templato Urnehm
 shortbio: PhD student in 👽 science
 description-meta: PhD student in 👽 science
-og-url: https://basicpage.github.io
+og-url: https://hugo.segoufin-chollet.github.io
 location: Some lab, office 777
 email: noreply@noemail.com
 picture: img/profile.png
