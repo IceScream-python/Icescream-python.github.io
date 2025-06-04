@@ -3,14 +3,14 @@ title: Hugo SEGOUFIN-CHOLLET
 author: Templato Urnehm
 shortbio: PhD student in 👽 science
 description-meta: PhD student in 👽 science
-og-url: https://hugo.segoufin-chollet.github.io
+og-url: https://Icescream-python.github.io
 location: Some lab, office 777
 email: noreply@noemail.com
 picture: img/profile.png
 picture-round: false
 side-by-side: true
 pronouns: They/Them
-og-picture: https://basicpage.github.io/img/profile.png
+og-picture: https://Icescream-python.github.io/img/profile.png
 orcid: 0000-0000-0000-0000
 dblp: https://dblp.org/
 scholar: https://scholar.google.com/
